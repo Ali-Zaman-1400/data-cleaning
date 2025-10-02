@@ -31,7 +31,8 @@ data-cleaning/
 Place your raw CSV file as input.csv in the same directory.
 
 Run the script:
-python clean_csv.py
+  ```bash
+  python clean_csv.py
 
 The cleaned dataset will be saved as:
 output_clean.csv
