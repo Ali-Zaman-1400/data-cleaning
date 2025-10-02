@@ -17,8 +17,11 @@ The scripts can be used as standalone utilities or integrated into larger **ETL 
 ##  Project Structure
 
 data-cleaning/
+
 ├── clean_csv.py # Main script for cleaning CSV files
+
 ├── input.csv # Example input file (sample data)
+
 └── output_clean.csv # Example cleaned output
 
 ---
